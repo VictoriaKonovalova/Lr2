@@ -1,4 +1,1 @@
-fjgmgh h gfdfgbgfb
-fgb
-jj
-fgb
+Лабораторна работа №2
