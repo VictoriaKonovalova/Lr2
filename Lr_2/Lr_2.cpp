@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int i, m[10]; // Объявляем целочисленную переменную и один массив.
+    int i, m[10]; 
 
     for (i = 0; i < 10; i++)
     {
