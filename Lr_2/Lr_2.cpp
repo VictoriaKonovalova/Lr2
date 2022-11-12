@@ -8,7 +8,7 @@ int main()
 
     for (i = 0; i < 10; i++) 
     {
-        cin >> m[i]; // 
+        cin >> m[i]; 
     }
 
     for (i = 0; i < 10; i++)
